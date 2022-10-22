@@ -1,7 +1,7 @@
 def shadDectobin(n) :
 	"""Convert decimal to binary.
     :param string text: the decimal to convert.
-    :returns: binary number stored as a string .
+    :return : nombre binaire stocké sous forme de chaîne .
     :rtype: string
     """
     resultat = ""
